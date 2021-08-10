@@ -17,7 +17,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Alpha Bank Service</title>
-
+	
 	<!-- Bootstrap -->
 	<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/style.css" rel="stylesheet" type="text/css">
@@ -59,6 +59,7 @@
 		
 	</style>
 </head>
+	<h1>Hai</h1>
 <body style="background-image:url(1.jpg);background-repeat: no-repeat;background-size: cover;">
 
 <nav class="navbar navbar-default navbar-fixed-top before-color">
