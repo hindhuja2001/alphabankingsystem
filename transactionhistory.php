@@ -59,7 +59,7 @@
 		
 	</style>
 </head>
-	<h1>Hai</h1>
+	
 <body style="background-image:url(1.jpg);background-repeat: no-repeat;background-size: cover;">
 
 <nav class="navbar navbar-default navbar-fixed-top before-color">
